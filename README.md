@@ -21,3 +21,17 @@ Getting token from Curity using Client Credentials...
   "token_type" => "bearer"
 }
 ```
+
+## License
+
+This sample code is licensed under the [Apache v. 2 license](LICENSE).
+
+## Questions
+
+For questions, contact Curity AB:
+
+> info@curity.io
+>
+> https://curity.io
+
+Copyright (C) 2020 Curity AB.
